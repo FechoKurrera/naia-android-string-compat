@@ -1,0 +1,13 @@
+NAIA Android Tools 0.2.3
+For NAIA 2.0 v2.0.48 by DNT-LAB.
+Upstream: https://github.com/DNT-LAB/NAIA2.0
+Audited upstream: 6e97c7f4f37e495ad21657ed29d28dd9993a808e
+Runtime adapters derive from upstream interfaces and are distributed under GPL-3.0.
+See LICENSE. No endorsement by DNT-LAB or OpenAI is implied.
+Private credentials and development data are not distributed.
+
+Includes html2canvas 1.4.1 by Niklas von Hertzen and contributors (MIT).
+Official npm package integrity checked before vendoring.
+See vendor/html2canvas-LICENSE.txt for the full MIT license.
+
+Comic Maker compatibility targets okawaritsuika/NAIA-EXten at f90c734803bd699c73f5854a83f96325a7071a8a. Optional PromptServer integration downloads verified source directly from okawaritsuika/PromptServer at ff4ccb6eb7f4b73b330fb3a6f46c8d8f4fa128fe on the user device; upstream PromptServer source is not included in this package.

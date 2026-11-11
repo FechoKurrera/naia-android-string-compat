@@ -1,0 +1,8 @@
+{
+  "id": "naia_zz_android_tools_v1",
+  "name": "NAIA Android 도구 0.2.9",
+  "version": "0.2.9",
+  "naia_ext_api": 1,
+  "entry": "main.py",
+  "description": "Android에서 허용한 폴더 탐색, 기기 사진 선택·불러오기, 보관함 비교와 선택 삭제. 작가 썸네일 저메모리 모드, ChatGPT 화면 연결, Comic Maker 실행부 도구. NAIA v2.0.48 전용."
+}
