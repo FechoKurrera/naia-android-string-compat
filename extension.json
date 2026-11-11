@@ -1,0 +1,8 @@
+{
+  "id": "naia_android_tools_repair_v2",
+  "name": "NAIA Android 업데이트 1.1",
+  "version": "1.1.0",
+  "naia_ext_api": 1,
+  "entry": "main.py",
+  "description": "Android 도구·ChatGPT 연결·저장 폴더 확장의 확인된 소스만 복구합니다. 연결과 설정을 보존하며 버튼을 눌렀을 때만 적용합니다. 이후에는 같은 도구에서 GitHub 수정본을 확인하고 적용할 수 있습니다."
+}

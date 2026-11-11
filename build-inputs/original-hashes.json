@@ -1,0 +1,74 @@
+{
+  "chatgpt": {
+    "NOTICE.txt": {
+      "git_blob_sha": "b96239bb314e535baf677187fb4e6dd7ac884308",
+      "sha256": "556c66dfe180ee2586a1cc262ad8fd577ee88f0808830c8a2e1dbcf700500ac0"
+    },
+    "README.md": {
+      "git_blob_sha": "92d80860c58238cab5a47b2faae74ae947926cca",
+      "sha256": "9e394d69bf588661c7f3beb52a68e2c39ce27ff89c371f1b2e0915f3b674ac0f"
+    },
+    "chatgpt_panel.html": {
+      "git_blob_sha": "707a636615cce4b1cf73d177b817c9ad89574062",
+      "sha256": "69ad5c60a8bc694b10ab3626715b48401b229afac8198c8da83fc33a8f2eea03"
+    },
+    "extension.json": {
+      "git_blob_sha": "c825312149007b3cd207009a2fc24a6fb2fbdbb1",
+      "sha256": "988400e947579d654b3679e87c059f5d8ad4e48dd4726dea2fff68d724627d86"
+    },
+    "main.py": {
+      "git_blob_sha": "ed7d8a8e7c614340359f95982f4d02399db4b15a",
+      "sha256": "e6d39f58063c7ab09e29c4b1395d9f8e5d655868c5b60852cacaa52b45e53559"
+    },
+    "naia_chatgpt_bridge.py": {
+      "git_blob_sha": "af7bdbe3105e05e657dd7d0312f740c9d969f518",
+      "sha256": "ee717f6a0993b7b069a801058bd66cd6f7fc14c4aa681a0aef297f8df5262a86"
+    },
+    "naia_chatgpt_schema.py": {
+      "git_blob_sha": "2923a41d987f336feea1f55f48d77e6f0755958a",
+      "sha256": "dcad0212f82a28f60dca3ec1887d4a4825dff0d3bc3c7b8dba5cb66d10234955"
+    },
+    "naia_chatgpt_ui.py": {
+      "git_blob_sha": "5ba3b0b7c39ab0ea84ca0a36c2ebb1a93049b004",
+      "sha256": "24c946bc34e49388a941f1ad1f0db330b3e879cb3607efe3e8456fd616e8b328"
+    },
+    "naia_siwc_auth.py": {
+      "git_blob_sha": "653c4f66708209a8325c3c20cde8070701f4e038",
+      "sha256": "a7861529fcb9a25bb8c9a244fb432c65585edba965b56badfd9b62319639105d"
+    },
+    "naia_siwc_responses.py": {
+      "git_blob_sha": "b5760ff46a46638a4f84b9523adad76e6c6c839e",
+      "sha256": "f06fbf355e26b72a76e168a2b65d39aab73027d3100934ed3af19639a650b0c6"
+    }
+  },
+  "storage": {
+    "NOTICE.txt": {
+      "git_blob_sha": "4d24064b820f1a9c20c9247db46663357622bed3",
+      "sha256": "46c736ccc7f08034434c7c4044f39a7ebc03ef0a495c0811435fc3353b02d8ce"
+    },
+    "README.md": {
+      "git_blob_sha": "7d826ba5ff4409fdc03cc806b574c1b3ce83c83b",
+      "sha256": "f6ee377f56a5896d2fda53c158f183a0ecd5b17c9ba26f11dcbc9e8115e8b7be"
+    },
+    "extension.json": {
+      "git_blob_sha": "235680aad90687c5fe704ff5fab2a630d8f27a04",
+      "sha256": "07d7a681578798fe7c658c85a96f752edebdc0fb54b4b5c70e1aee7659b262ac"
+    },
+    "main.py": {
+      "git_blob_sha": "9df3545dc557dc6edc6e3f7802e75b8ad6003fed",
+      "sha256": "bec4969b7706e077c1fa7af97b02cd5fb1c755d4b72dbd4fef53c7e361c31179"
+    },
+    "naia_storage_service.py": {
+      "git_blob_sha": "dd2767e10e401f366c127bf1629a336a48eb20a2",
+      "sha256": "d247ac03497651b6887038dcfe26517db99ba2c82b906a16815407b4f0c952e5"
+    },
+    "naia_storage_ui.py": {
+      "git_blob_sha": "de6ddc250a908c78ed93166785bae78bf2e7776f",
+      "sha256": "ed63fe54900e77741041ede584bc3744b499986d1f5c71e29e457c7fef5be754"
+    },
+    "storage_panel.html": {
+      "git_blob_sha": "57cfcd6daa433fa8bc065431bcd189096f53efb0",
+      "sha256": "4068cc8acd34849070d576789729d71e70ec99dda32997aba2874a22f92fa514"
+    }
+  }
+}

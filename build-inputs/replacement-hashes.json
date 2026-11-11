@@ -1,0 +1,54 @@
+{
+  "chatgpt": {
+    "extension_id": "naia_chatgpt_connect_v2",
+    "files": {
+      "NOTICE.txt": {
+        "original_sha256": "556c66dfe180ee2586a1cc262ad8fd577ee88f0808830c8a2e1dbcf700500ac0",
+        "replacement_sha256": "a05b7e61a97d22f53849a9025616bede5224144825a5bf9c5f5957676e726c81"
+      },
+      "README.md": {
+        "original_sha256": "9e394d69bf588661c7f3beb52a68e2c39ce27ff89c371f1b2e0915f3b674ac0f",
+        "replacement_sha256": "7a9d4814462e4250bfa827eda28ee93e1d6a338f8d94ee7217db90cfb91a87d4"
+      },
+      "extension.json": {
+        "original_sha256": "988400e947579d654b3679e87c059f5d8ad4e48dd4726dea2fff68d724627d86",
+        "replacement_sha256": "5de6666f85aae7a484204f303acef2e93481ffedd2501e9f19cd12bfa3a08bd3"
+      },
+      "main.py": {
+        "original_sha256": "e6d39f58063c7ab09e29c4b1395d9f8e5d655868c5b60852cacaa52b45e53559",
+        "replacement_sha256": "2fadd9d4190a1e2d0058e3a1068e6d15a1d807ef4aab1efa9c206b58cc98ce89"
+      },
+      "naia_chatgpt_ui.py": {
+        "original_sha256": "24c946bc34e49388a941f1ad1f0db330b3e879cb3607efe3e8456fd616e8b328",
+        "replacement_sha256": "081b849093b82fbf3ad4ca583d58732508b7700a6bcb43c13489dfea9e1711f5"
+      }
+    },
+    "version": "0.1.2"
+  },
+  "storage": {
+    "extension_id": "naia_storage_picker_v1",
+    "files": {
+      "NOTICE.txt": {
+        "original_sha256": "46c736ccc7f08034434c7c4044f39a7ebc03ef0a495c0811435fc3353b02d8ce",
+        "replacement_sha256": "4d53476cdfcb406138f71737006e1926615cb08612aa557df0f38a19321712c7"
+      },
+      "README.md": {
+        "original_sha256": "f6ee377f56a5896d2fda53c158f183a0ecd5b17c9ba26f11dcbc9e8115e8b7be",
+        "replacement_sha256": "54004ac2d88e32f1b52b0e4cb913f0cec88dec907915e700f3e22887f96d258a"
+      },
+      "extension.json": {
+        "original_sha256": "07d7a681578798fe7c658c85a96f752edebdc0fb54b4b5c70e1aee7659b262ac",
+        "replacement_sha256": "7d56ef6592874fc718a5973c81fd4e11b5e65c38af5a1d126d07910252e7bf9a"
+      },
+      "main.py": {
+        "original_sha256": "bec4969b7706e077c1fa7af97b02cd5fb1c755d4b72dbd4fef53c7e361c31179",
+        "replacement_sha256": "0d8f265cb8a6a2c7557a742c8a8fbbafd11feb15a52edf75baaeea0b447d61db"
+      },
+      "naia_storage_ui.py": {
+        "original_sha256": "ed63fe54900e77741041ede584bc3744b499986d1f5c71e29e457c7fef5be754",
+        "replacement_sha256": "1353f4030b42156f31bd48c8b0607380ab75f0d36800d8468c2022e9b9bf126a"
+      }
+    },
+    "version": "0.1.1"
+  }
+}

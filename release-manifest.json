@@ -1,0 +1,108 @@
+{
+  "archive": "naia-repair-payload.zip",
+  "format": 1,
+  "main": {
+    "files": {
+      "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "NOTICE.txt": "7df192033beeb49ac45c5c4caf4d230d9a7441f1701fa1c247b9ad9feda1f76b",
+      "README.md": "7fc3ced0faa6d7f04bea2b6a347b48ba9cd576e223acacb3c8ff46397814daad",
+      "android_tools_panel.html": "ffbf7a67db0bb1767deec213752c8142920b7e94bd5396548989c21a617c988e",
+      "extension.json": "1f1d0b84a6823fcdf722003b14b3f55e08203136d85f3dc2e283da4c1f069666",
+      "main.py": "93ea2014a4d7da522ab3c4d41595eaafba0bc105005311b3f0d3288b9e4154c9",
+      "naia_android_tree.py": "88df8f6c5bc4de6cd0e39d58c1036806fed34da65b0ea38388f7cbb9241d3a4e",
+      "naia_artist_memory.py": "bfc933f608024bf34477a2d993406516516a3e9395124796bc0b593c9c046b9d",
+      "naia_comic_compat.py": "88eb4ebb2cbab3795308a6be88dfd0bce535d25d8346c2e05079566f62dc77e2",
+      "naia_device_bridge.py": "760ced68c9b6f54d9af0e72c0b937497a08dad13c0ab172b72c476e9d101f9a9",
+      "naia_folder_open.py": "6a716369b4022e20ac41199651b57301ec9f662c748f5f7c33eafc34086f595a",
+      "naia_history_library.js": "11886b73802ba89e2c1bc481efe9891d4641bb7b893b32bf2c7818e46a5b3d02",
+      "naia_history_library.py": "68ae85ac33e3b6dbda70a0012d6cf88f93151d6291eb09b36c341cfdea7cc14f",
+      "naia_local_photo_picker.py": "84ec5d09900b5633ea07ffbf5b7e7d8651257acfed7995ba4f289f0b641693e2",
+      "naia_prompt_server.py": "fac89e229984b7b88f40f65c814a8b5af96ac05e2a10e5410a335085edec4be2",
+      "naia_screen_agent.js": "d5812a684d52d62ff31aa8f1d29cbd045f7190f484731edb4132e44f29491fff",
+      "naia_screen_service.py": "ce5698bd73e1d83bd6d7ac5d310d16784fbc10f61cd1ab047ecb3e180819ee71",
+      "naia_tools_ui.py": "820ed26f3053d5b7f8199a735ab7ab3a4fa09ad68a9a3555734392c7a1bab82a",
+      "promptserver-source-manifest.json": "5ccda4e0c0c985e11cbceeec23ca8f5e4d56f591038e4cadef1204f9517ae81e",
+      "vendor/html2canvas-1.4.1.min.js": "e87e550794322e574a1fda0c1549a3c70dae5a93d9113417a429016838eab8cb",
+      "vendor/html2canvas-LICENSE.txt": "86200ce4e92d9a22c41c8647a55f7a5fddff304ff89b4d36ecc699ed8c123d2c"
+    },
+    "id": "naia_zz_android_tools_v1"
+  },
+  "repairs": {
+    "naia_chatgpt_connect_v2": {
+      "files": {
+        "NOTICE.txt": {
+          "from_sha256": [
+            "556c66dfe180ee2586a1cc262ad8fd577ee88f0808830c8a2e1dbcf700500ac0"
+          ],
+          "sha256": "a05b7e61a97d22f53849a9025616bede5224144825a5bf9c5f5957676e726c81"
+        },
+        "README.md": {
+          "from_sha256": [
+            "9e394d69bf588661c7f3beb52a68e2c39ce27ff89c371f1b2e0915f3b674ac0f"
+          ],
+          "sha256": "7a9d4814462e4250bfa827eda28ee93e1d6a338f8d94ee7217db90cfb91a87d4"
+        },
+        "extension.json": {
+          "from_sha256": [
+            "988400e947579d654b3679e87c059f5d8ad4e48dd4726dea2fff68d724627d86"
+          ],
+          "sha256": "5de6666f85aae7a484204f303acef2e93481ffedd2501e9f19cd12bfa3a08bd3"
+        },
+        "main.py": {
+          "from_sha256": [
+            "e6d39f58063c7ab09e29c4b1395d9f8e5d655868c5b60852cacaa52b45e53559"
+          ],
+          "sha256": "2fadd9d4190a1e2d0058e3a1068e6d15a1d807ef4aab1efa9c206b58cc98ce89"
+        },
+        "naia_chatgpt_ui.py": {
+          "from_sha256": [
+            "24c946bc34e49388a941f1ad1f0db330b3e879cb3607efe3e8456fd616e8b328"
+          ],
+          "sha256": "081b849093b82fbf3ad4ca583d58732508b7700a6bcb43c13489dfea9e1711f5"
+        }
+      },
+      "from_versions": [
+        "0.1.1"
+      ]
+    },
+    "naia_storage_picker_v1": {
+      "files": {
+        "NOTICE.txt": {
+          "from_sha256": [
+            "46c736ccc7f08034434c7c4044f39a7ebc03ef0a495c0811435fc3353b02d8ce"
+          ],
+          "sha256": "4d53476cdfcb406138f71737006e1926615cb08612aa557df0f38a19321712c7"
+        },
+        "README.md": {
+          "from_sha256": [
+            "f6ee377f56a5896d2fda53c158f183a0ecd5b17c9ba26f11dcbc9e8115e8b7be"
+          ],
+          "sha256": "54004ac2d88e32f1b52b0e4cb913f0cec88dec907915e700f3e22887f96d258a"
+        },
+        "extension.json": {
+          "from_sha256": [
+            "07d7a681578798fe7c658c85a96f752edebdc0fb54b4b5c70e1aee7659b262ac"
+          ],
+          "sha256": "7d56ef6592874fc718a5973c81fd4e11b5e65c38af5a1d126d07910252e7bf9a"
+        },
+        "main.py": {
+          "from_sha256": [
+            "bec4969b7706e077c1fa7af97b02cd5fb1c755d4b72dbd4fef53c7e361c31179"
+          ],
+          "sha256": "0d8f265cb8a6a2c7557a742c8a8fbbafd11feb15a52edf75baaeea0b447d61db"
+        },
+        "naia_storage_ui.py": {
+          "from_sha256": [
+            "ed63fe54900e77741041ede584bc3744b499986d1f5c71e29e457c7fef5be754"
+          ],
+          "sha256": "1353f4030b42156f31bd48c8b0607380ab75f0d36800d8468c2022e9b9bf126a"
+        }
+      },
+      "from_versions": [
+        "0.1.0"
+      ]
+    }
+  },
+  "sha256": "7b0753902c77deb12a3e68b5d422e90d2520bff72e108d42d08a96390dfce6ac",
+  "target_version": "0.2.9"
+}
